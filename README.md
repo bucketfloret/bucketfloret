@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💐 Bucket
 
-<!--
-**bucketfloret/bucketfloret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bucket is an AI platform that brings together multiple intelligent tools in one place.
 
-Here are some ideas to get you started:
+## Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Instead of using dozens of separate AI services, users can build their own "bouquet" of AI assistants inside Bucket.
+
+## Planned features
+
+- 🤖 AI Chat
+- 💻 Coding Assistant
+- 📄 PDF Analysis
+- 🌍 Translation
+- 🎨 Image Generation
+- 🧠 Long-term Memory
+- 🔍 Web Search
+
+## Status
+
+🚧 Early development.
